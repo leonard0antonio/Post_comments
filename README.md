@@ -1,6 +1,6 @@
 # Post_comments: A Plataforma para Compartilhar Ideias e Interagir 🚀
 
-Bem-vindo ao **Post_comments**! Este projeto é uma aplicação simples e moderna que permite aos usuários **compartilhar posts** e **interagir** com comentários de uma maneira fluída e envolvente. Criado durante o curso de Análise e Desenvolvimento de Sistemas, o projeto visa proporcionar uma experiência leve e intuitiva para quem adora se conectar com outras pessoas através de ideias.
+Bem-vindo ao **Post_comments**! Este projeto é uma aplicação simples e moderna que permite aos usuários **compartilhar posts** e **interagir** com comentários de uma maneira fluída e envolvente. Criado durante o curso da Rocketseat, o projeto visa proporcionar uma experiência leve e intuitiva para quem adora se conectar com outras pessoas através de ideias.
 
 ## 💬 Funcionalidades Incríveis
 
